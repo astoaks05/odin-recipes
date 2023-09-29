@@ -1,0 +1,20 @@
+*{
+    background-color: darkslategrey
+}
+h1{
+    color: wheat;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+a, li{
+    color: wheat;
+    text-decoration: none;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    list-style-type: none;
+    padding: 15px
+}
+a:hover{
+    background-color: #ff00ff80;
+}
